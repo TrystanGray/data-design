@@ -28,5 +28,6 @@
 			<li>Role: Power/ casual user</li>
 		</ul>
 		<h4><a href="./user-story.php">User Story</a></h4>
+		<h4><a href="./use-case.php">User Cases</a></h4>
 	</body>
 </html>
