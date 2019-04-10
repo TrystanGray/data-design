@@ -14,7 +14,7 @@
 			<li>Age: 25</li>
 			<li>Technology
 			<ul>
-				<li>Type: Computer</li>
+				<li>Type: Desktop <em>OS: Microsoft Windows 10</em>, iPhone 10x <em>OS: ios 12.2</em></li>
 				<li>Proficiency: 7</li>
 				<li>Loves working with computers.</li>
 			</ul>
@@ -27,8 +27,8 @@
 			<li>Frustrations: None with particular site</li>
 			<li>Role: Power/ casual user</li>
 		</ul>
-		<h4><a href="./user-story.php">User Story</a></h4>
-		<h4><a href="./use-case.php">User Cases</a></h4>
-		<h4><a href="./index.php">Directory</a></h4>
+		<h4><a href="user-story.php">User Story</a></h4>
+		<h4><a href="use-case.php">User Cases</a></h4>
+		<h4><a href="index.php">Directory</a></h4>
 	</body>
 </html>
