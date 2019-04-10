@@ -12,5 +12,6 @@
 		feature that then organizes the cars in one area all together.</p>
 		<h4><a href="./use-case.php">User Cases</a></h4>
 		<h4><a href="./persona.php">Persona</a></h4>
+		<h4><a href="./index.php">Directory</a></h4>
 	</body>
 </html>
