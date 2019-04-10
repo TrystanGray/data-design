@@ -14,7 +14,7 @@
 			<li>Age: 25</li>
 			<li>Technology
 			<ul>
-				<li>Type: Desktop <em>OS: Microsoft Windows 10</em>, iPhone 10x <em>OS: ios 12.2</em></li>
+				<li>Type: HP Desktop <em>OS: Microsoft Windows 10</em>, iPhone 10x <em>OS: ios 12.2</em></li>
 				<li>Proficiency: 7</li>
 				<li>Loves working with computers.</li>
 			</ul>
