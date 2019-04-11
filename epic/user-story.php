@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>User Story</h1>
-		<p>My user wants to compile a list of cars he likes to choose which one to buy.</p>
+		<p>As a powerful/ casual user Mark can compile a list of cars he likes on Cargurus.</p>
 		<h4><a href="use-case.php">User Cases</a></h4>
 		<h4><a href="persona.php">Persona</a></h4>
 		<h4><a href="index.php">Directory</a></h4>
