@@ -20,7 +20,6 @@
 			<li>To add to his likes he clicks the "<3 to like" button.</li>
 			<li>The button then lights up red indicating it has been saved.</li>
 			<li>Mark can then view all his saved cars by clicking his user name and then saved listings.</li>
-			<li>From the list Mark makes his car decision.</li>
 		</ol>
 		<h4><a href="user-story.php">User Story</a></h4>
 		<h4><a href="persona.php">Persona</a></h4>
