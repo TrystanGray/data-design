@@ -33,12 +33,12 @@
 			<strong>Saved Listings:</strong>
 		</p>
 		<ul>
-			<li>savedListingsCarId (pk)</li>
+			<li>savedListingsCarId (fk)</li>
+			<li>savedListingsUserId (fk)</li>
 			<li>savedListingsSaveAdd</li>
-			<li>savedListingsMySaved</li>
 			<li>savedListingsUnsaveCar</li>
 		</ul>
-		<img src="data-design-1.jpg" alt="no pic">
+		<img src="erd-data-design1.PNG" alt="no pic">
 		<h4><a href="persona.php">Persona</a></h4>
 		<h4><a href="user-story.php">User Story</a></h4>
 		<h4><a href="use-case.php">User Case</a></h4>
