@@ -32,7 +32,9 @@ select Car.CarYearMakeModel, SavedListings.savedListingsSaveAdd from Car
    inner join SavedListings on Car.carId = SavedListings.SavedListingsCarId where carLocation = "Dallas Texas";
 
 -- Complex innerjoin
-select Car.carYearMakeModel, Car.carDealerInfo, SavedListings.savedListingsSaveAdd from SavedListings inner join Car on Car.carId = SavedListings.SavedListingsCarId inner join User on User.UserId = savedListingsUserId where SavedListings.savedListingUnsaveCar = "no";
+select Car.carYearMakeModel, Car.carDealerInfo, SavedListings.savedListingsSaveAdd from SavedListings
+inner join Car on Car.carId = SavedListings.SavedListingsCarId inner join User on User.UserId = savedListingsUserId
+where SavedListings.savedListingUnsaveCar = "no";
 
 -- Write a select statement based of off DDC-Twitter that counts the number of likes for a specific tweet
-select tweetTotalLikes from tweet where tweetId = uuid
+SELECT COUNT(tweetProfileId) FROM tweet WHERE TweetId = UNHEX("e793b75e789b4d3d986b04ed5eb85ef4");
