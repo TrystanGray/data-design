@@ -37,4 +37,4 @@ inner join Car on Car.carId = SavedListings.SavedListingsCarId inner join User o
 where SavedListings.savedListingUnsaveCar = "no";
 
 -- Write a select statement based of off DDC-Twitter that counts the number of likes for a specific tweet
-SELECT COUNT(tweetProfileId) FROM tweet WHERE TweetId = UNHEX("e793b75e789b4d3d986b04ed5eb85ef4");
+SELECT COUNT(tweetProfileId) FROM 'like' WHERE TweetId = UNHEX("e793b75e789b4d3d986b04ed5eb85ef4");
